@@ -18,7 +18,6 @@ body {
     margin-bottom: 8px;
     font-size: 48px;
     font-weight: 900;
-    
 }
 
 .hero {
@@ -32,8 +31,6 @@ body {
     display: flex;
     margin: 75px 100px;
     justify-content: center;
-    /* flex: 1; */
-    
 }
 
 .header {
@@ -54,8 +51,6 @@ body {
     gap: 12px;
 }
 
-
-
 .title {
     display: flex;
     flex-wrap: wrap;
@@ -63,7 +58,6 @@ body {
     padding-right: 25px;
     color: #F9FAF8;
 }
-
 
 .title button {
     background-color: #3882F6;
@@ -202,3 +196,15 @@ ul {
 }
 
 /* -----Footer -----*/
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 24px;
+}
+
+.footer p {
+    color: #E5E7EB;
+}
