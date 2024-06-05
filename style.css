@@ -164,5 +164,41 @@ ul {
     font-weight: 700;
 }
 
-
 /* -----Section 4 -----*/
+.action {
+    display: flex;
+    padding: 90px 120px;
+}
+
+.banner {
+    display: flex;
+    background-color: #3882F6;
+    /* margin: 90px 120px; */
+    padding: 35px 70px;
+    width: 75vw;
+    justify-content: space-between;
+    border-radius: 6px;
+    color: #F9FAF8;
+}
+
+.banner button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 4px 32px;
+    text-align: center;
+    font-size: 18px;
+    border: 2px solid #F9FAF8;
+    border-radius: 6px;
+
+}
+
+.banner h3 {
+    margin: 0 0 2px 0;
+    padding: 0;
+}
+
+.banner p {
+    color: #E5E7EB;
+}
+
+/* -----Footer -----*/
